@@ -1,5 +1,5 @@
 <h1>
-  <img src="../assets/aurum-circle.png" alt="logo" width="70"/>
+  <img src="https://github.com/aurum-lang/.github/blob/main/assets/aurum-circle.png?raw=true" alt="logo" width="70"/>
   &nbsp;&nbsp;&nbsp;The Aurum Programming Language
 </h1>
 
